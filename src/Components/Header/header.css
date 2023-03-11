@@ -1,0 +1,19 @@
+.info-edit {
+    display: flex;
+    margin-left: 330px;
+    width: 40px
+}
+.info-ava {
+    width: 85px;
+    height: 130px;
+    object-fit: cover;
+    margin-left: 10px; 
+    border-radius: 7px;
+}
+.about {
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #000000;
+}
